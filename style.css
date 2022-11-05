@@ -1,0 +1,29 @@
+#address{
+	
+	margin-left:40px;
+}
+body{
+	padding-left: 15%;
+	padding-right: 15%;
+}
+#title{
+	background-color: #03045e; 
+	color: white;
+	border-bottom: 8px solid #e9d700;
+}
+h3 {
+border-bottom: 8px solid #03045e;
+}
+.checked {
+  color: #87cefa;
+  
+}
+
+.languages li{
+	list-style: none;
+}
+#imageProfile{
+	margin-left:30px;
+	position: absolute;
+	bottom:-120px;
+}
